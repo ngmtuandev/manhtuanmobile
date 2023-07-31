@@ -1,0 +1,11 @@
+export { default as Home } from "./Home";
+export { default as Order } from "./Order";
+export { default as Products } from "./Products";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as UpdateUser } from "./UpdateUser";
+export { default as AminManage } from "./AminManage";
+export { default as Cart } from "./Cart";
+export { default as PayCart } from "./PayCart";
+export { default as OrderProcess } from "./OrderProcess";
+export { default as ProductType } from "./ProductType";
